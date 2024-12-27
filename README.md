@@ -1,4 +1,4 @@
-# StratHere_WD-CS-_-task-1_(1-5)
+# StratHere_WD & CS _-task-1_(1-5)
 # Web Development
 
    -> https://github.com/rak9b/web-development-portfolio-
